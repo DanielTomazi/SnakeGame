@@ -1,15 +1,15 @@
 # Snake Game
 *****
-Game clássico recriado utilizando a linguagem Java, o mesmo tem os princípios grasp e solid aplicados ao seu algorítimo, o código foi criado utilizando o IntelliJ e tem suas classes adequadamente separadas e isoladas para cada funcionalidade pelos princípios mencionados e questões de clean-code.
+Classic game recreated using the Java programming language. It follows the GRASP and SOLID principles applied to its algorithm. The code was created using IntelliJ and has its classes properly separated and isolated for each functionality according to the mentioned principles and clean code practices.
 
 Classes:
-- Food
-- GameController
-- GameWindow
-- Main
-- Snake
 
-Rodar o código utilizando IntelliJ devido às questões de build envolvendo a linguagem Java.
-(Não foi adaptado para mobile, rodar em computadores somente)
+Food
+GameController
+GameWindow
+Main
+Snake
+
+Run the code using IntelliJ due to build issues related to the Java language. (It has not been adapted for mobile and runs only on computers).
 ***
 # Autor: Daniel Tomazi de Oliveira
