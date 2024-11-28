@@ -4,11 +4,7 @@ Classic game recreated using the Java programming language. It follows the GRASP
 
 Classes:
 
-Food
-GameController
-GameWindow
-Main
-Snake
+Food / GameController / GameWindow / Main / Snake
 
 Run the code using IntelliJ due to build issues related to the Java language. (It has not been adapted for mobile and runs only on computers).
 ***
